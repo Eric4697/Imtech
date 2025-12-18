@@ -162,10 +162,10 @@ http://localhost:5000
 ## 🏗️ Architecture du Projet
 
 ```
+README.md                   # Documentation
 malagasy-editor/
 ├── app.py                      # Application Flask principale
 ├── requirements.txt            # Dépendances Python
-├── README.md                   # Documentation
 ├── modules/                    # Modules IA
 │   ├── __init__.py
 │   ├── spell_checker.py       # Correcteur orthographique
