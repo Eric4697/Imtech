@@ -1,4 +1,7 @@
 # Éditeur de Texte Augmenté par l'IA pour le Malagasy
+# membre du groupe
+-**RASOLOFOARIJAONA Eric IMTIC5A n°02**
+
 
 ## 🎯 Description
 
