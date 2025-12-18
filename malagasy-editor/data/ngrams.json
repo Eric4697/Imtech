@@ -1,0 +1,20 @@
+{
+    "(\"ny\",)": {"trano": 5, "tanana": 4, "vary": 3, "rano": 3, "fihavanana": 2},
+    "(\"ny\", \"trano\")": {"lehibe": 3, "kely": 2, "tsara": 2},
+    "(\"tsara\", \"fanahy\")": {"dia": 2, "sy": 1},
+    "(\"misy\",)": {"olona": 4, "zavatra": 3, "fotoana": 2},
+    "(\"manao\",)": {"ahoana": 10, "inona": 5, "asa": 3},
+    "(\"manao\", \"ahoana\")": {"ianao": 8, "ry": 6, "hianareo": 3},
+    "(\"misaotra\",)": {"betsaka": 6, "indrindra": 4, "anao": 3},
+    "(\"tonga\",)": {"soa": 5, "eto": 4, "any": 2},
+    "(\"tonga\", \"soa\")": {"amin": 3, "ianareo": 2},
+    "(\"faly\",)": {"aho": 3, "isika": 2, "izy": 2},
+    "(\"miteny\",)": {"malagasy": 6, "frantsay": 3, "anglisy": 2},
+    "(\"mandeha\",)": {"any": 4, "amin": 3, "ho": 2},
+    "(\"mihinana\",)": {"vary": 5, "sakafo": 4, "mofo": 2},
+    "(\"fihavanana\",)": {"malagasy": 4, "dia": 2, "no": 2},
+    "(\"salama\",)": {"e": 5, "tompoko": 3, "ry": 2},
+    "(\"aho\",)": {"dia": 3, "no": 2, "koa": 2},
+    "(\"izy\",)": {"dia": 3, "no": 2, "koa": 2},
+    "(\"tsara\",)": {"fanahy": 4, "tarehy": 3, "loatra": 2}
+}
