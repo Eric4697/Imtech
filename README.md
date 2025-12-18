@@ -211,14 +211,6 @@ malagasy-editor/
 - Vocabulaire culturel et géographique spécifique
 - Focus sur qualité plutôt que quantité
 
-## 👥 Équipe et Rôles
-
-**Développeur Full-Stack IA**
-- Architecture complète
-- Implémentation des 7 modules IA
-- Design UI/UX
-- Documentation
-
 ## 📚 Bibliographie
 
 ### Sources de Données
