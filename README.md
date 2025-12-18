@@ -1,11 +1,11 @@
 # Éditeur de Texte Augmenté par l'IA pour le Malagasy
 # membre du groupe
-# -**RASOLOFOARIJAONA Eric IMTICIA 5 n°02 :** Developpeur/commentateur
-# -**RAKOTOARISON Safidy Mbolatiana IGGLIA 5 n°44 :** Developpeur
-# -**RAKOTONANDRASANA Baramo Elis Julianno IGGLIA 5 n°37 :** commentateur
-# -**RAKOTONANDRASANA Laethicia Prisca IMTICIA 5 n°04 :** commentateur
-# -**ANDRIANANTENAINA Mialy Riantsoa IMITICIA 5 n°12 :** Analyste
-# -**VALISOA Mampionona ESIIA 5 n°03 :** Developpeur
+### -**RASOLOFOARIJAONA Eric IMTICIA 5 n°02 :** Developpeur/commentateur
+### -**RAKOTOARISON Safidy Mbolatiana IGGLIA 5 n°44 :** Developpeur
+### -**RAKOTONANDRASANA Baramo Elis Julianno IGGLIA 5 n°37 :** commentateur
+### -**RAKOTONANDRASANA Laethicia Prisca IMTICIA 5 n°04 :** commentateur
+### -**ANDRIANANTENAINA Mialy Riantsoa IMITICIA 5 n°12 :** Analyste
+### -**VALISOA Mampionona ESIIA 5 n°03 :** Developpeur
 
 #- **Lien video** : **https://drive.google.com/file/d/1CgpKAPMYjAnKcTWCxAY7SxEvQH-Ncwg9/view?usp=drive_link**
 
